@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on tarakparab</title>
-    <link>http://example.org/tags/</link>
+    <link>https://tarakparab.github.io/tags/</link>
     <description>Recent content in Tags on tarakparab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://tarakparab.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>first</title>
-      <link>http://example.org/tags/first/</link>
+      <link>https://tarakparab.github.io/tags/first/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>http://example.org/tags/first/</guid>
+      <guid>https://tarakparab.github.io/tags/first/</guid>
       <description></description>
     </item>
     
