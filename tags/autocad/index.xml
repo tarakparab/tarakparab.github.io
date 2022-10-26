@@ -15,7 +15,7 @@
       <guid>https://tarakparab.github.io/posts/autocad/</guid>
       <description>Workflow Initial workspace setup
 Make drawing units to millimetres and precision to 0. Create required layers for rough work, site outlines, existing structures/objects, walls, doors and windows, labels, dimensions, etc. Create required non-annotative and annotative text styles. Create required non-annotative and annotative dimension styles. Create required line styles. Preparing preliminary plan of the structure
-Draw plot boundaries, existing structures and other immovable obstacles on site and rough work layers. Draw setback lines and offsets from obstacles considering footings, chajjas/eaves, doors, windows, balcony locations, etc.</description>
+Draw plot boundaries, existing structures, other immovable obstacles on ROUGH WORK layer. Draw setback lines and offsets from obstacles by considering footings, chajjas/eaves, doors, windows, balcony locations, etc.</description>
     </item>
     
   </channel>
