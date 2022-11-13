@@ -18,5 +18,14 @@ Make drawing units to millimetres and precision to 0. Create required layers for
 Draw plot boundaries, existing structures, other immovable obstacles on ROUGH WORK layer.</description>
     </item>
     
+    <item>
+      <title>Syncthing</title>
+      <link>https://tarakparab.github.io/posts/syncthing/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://tarakparab.github.io/posts/syncthing/</guid>
+      <description>Sync folders and files over internet between PCs and/or phones.</description>
+    </item>
+    
   </channel>
 </rss>
