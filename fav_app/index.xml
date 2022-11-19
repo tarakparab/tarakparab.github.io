@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fav_apps on tarakparab</title>
+    <link>https://tarakparab.github.io/fav_app/</link>
+    <description>Recent content in Fav_apps on tarakparab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://tarakparab.github.io/fav_app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AntennaPod</title>
+      <link>https://tarakparab.github.io/fav_app/antennapod/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://tarakparab.github.io/fav_app/antennapod/</guid>
+      <description>Podcast client for Android</description>
+    </item>
+    
+    <item>
+      <title>Syncthing</title>
+      <link>https://tarakparab.github.io/fav_app/syncthing/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://tarakparab.github.io/fav_app/syncthing/</guid>
+      <description>Sync folders and files over internet between PCs and/or phones.</description>
+    </item>
+    
+  </channel>
+</rss>

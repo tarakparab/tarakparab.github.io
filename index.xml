@@ -19,11 +19,20 @@ Draw plot boundaries, existing structures, other immovable obstacles on ROUGH WO
     </item>
     
     <item>
-      <title>Syncthing</title>
-      <link>https://tarakparab.github.io/posts/syncthing/</link>
+      <title>AntennaPod</title>
+      <link>https://tarakparab.github.io/fav_app/antennapod/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>https://tarakparab.github.io/posts/syncthing/</guid>
+      <guid>https://tarakparab.github.io/fav_app/antennapod/</guid>
+      <description>Podcast client for Android</description>
+    </item>
+    
+    <item>
+      <title>Syncthing</title>
+      <link>https://tarakparab.github.io/fav_app/syncthing/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://tarakparab.github.io/fav_app/syncthing/</guid>
       <description>Sync folders and files over internet between PCs and/or phones.</description>
     </item>
     
