@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://tarakparab.github.io/sitemap.xml
+Sitemap: https://tarakprab.netlify.app/sitemap.xml

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on tarakparab</title>
-    <link>https://tarakparab.github.io/posts/</link>
+    <link>https://tarakprab.netlify.app/posts/</link>
     <description>Recent content in Posts on tarakparab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 24 Oct 2022 17:07:28 +0530</lastBuildDate><atom:link href="https://tarakparab.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Oct 2022 17:07:28 +0530</lastBuildDate><atom:link href="https://tarakprab.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AutoCAD</title>
-      <link>https://tarakparab.github.io/posts/autocad/</link>
+      <link>https://tarakprab.netlify.app/posts/autocad/</link>
       <pubDate>Mon, 24 Oct 2022 17:07:28 +0530</pubDate>
       
-      <guid>https://tarakparab.github.io/posts/autocad/</guid>
+      <guid>https://tarakprab.netlify.app/posts/autocad/</guid>
       <description>Workflow Initial workspace setup
 Make drawing units to millimetres and precision to 0. Create required layers for rough work, site outlines, existing structures/objects, walls, doors and windows, labels, dimensions, etc. Create required non-annotative and annotative text styles. For more on text sizes and styles click here. Create required non-annotative and annotative dimension styles. Create required line styles. Preparing preliminary plan of the structure
 Draw plot boundaries, existing structures, other immovable obstacles on ROUGH WORK layer.</description>
