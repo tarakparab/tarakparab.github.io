@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Favourites on Tarak Parab</title>
+    <title>Favourites on TARAK PARAB</title>
     <link>https://tarakparab.netlify.app/posts/favourites/</link>
-    <description>Recent content in Favourites on Tarak Parab</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://tarakparab.netlify.app/posts/favourites/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Favourites on TARAK PARAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://tarakparab.netlify.app/posts/favourites/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AntennaPod</title>
       <link>https://tarakparab.netlify.app/posts/favourites/antennapod/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://tarakparab.netlify.app/posts/favourites/antennapod/</guid>
-      <description>Podcast client for Android</description>
+      <description>Open source podcast client for Android</description>
     </item>
     
     <item>
       <title>Syncthing</title>
       <link>https://tarakparab.netlify.app/posts/favourites/syncthing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://tarakparab.netlify.app/posts/favourites/syncthing/</guid>
       <description>Sync folders and files over internet between PCs and/or phones.</description>

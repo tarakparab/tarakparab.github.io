@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Tarak Parab</title>
+    <title>Tags on TARAK PARAB</title>
     <link>https://tarakparab.netlify.app/tags/</link>
-    <description>Recent content in Tags on Tarak Parab</description>
+    <description>Recent content in Tags on TARAK PARAB</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 01 Nov 2012 09:20:20 +0530</lastBuildDate><atom:link href="https://tarakparab.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>poem</title>
-      <link>https://tarakparab.netlify.app/tags/poem/</link>
-      <pubDate>Thu, 01 Nov 2012 09:20:20 +0530</pubDate>
-      
-      <guid>https://tarakparab.netlify.app/tags/poem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>song</title>
-      <link>https://tarakparab.netlify.app/tags/song/</link>
-      <pubDate>Thu, 01 Nov 2012 09:20:20 +0530</pubDate>
-      
-      <guid>https://tarakparab.netlify.app/tags/song/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tarakparab.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>android</title>
       <link>https://tarakparab.netlify.app/tags/android/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://tarakparab.netlify.app/tags/android/</guid>
       <description></description>
@@ -36,7 +18,7 @@
     <item>
       <title>app</title>
       <link>https://tarakparab.netlify.app/tags/app/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://tarakparab.netlify.app/tags/app/</guid>
       <description></description>
@@ -45,7 +27,7 @@
     <item>
       <title>autocad</title>
       <link>https://tarakparab.netlify.app/tags/autocad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 17:07:28 +0530</pubDate>
       
       <guid>https://tarakparab.netlify.app/tags/autocad/</guid>
       <description></description>
@@ -54,7 +36,7 @@
     <item>
       <title>cad</title>
       <link>https://tarakparab.netlify.app/tags/cad/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 17:07:28 +0530</pubDate>
       
       <guid>https://tarakparab.netlify.app/tags/cad/</guid>
       <description></description>
@@ -63,7 +45,7 @@
     <item>
       <title>civil</title>
       <link>https://tarakparab.netlify.app/tags/civil/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Oct 2022 17:07:28 +0530</pubDate>
       
       <guid>https://tarakparab.netlify.app/tags/civil/</guid>
       <description></description>
@@ -72,7 +54,7 @@
     <item>
       <title>linux</title>
       <link>https://tarakparab.netlify.app/tags/linux/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://tarakparab.netlify.app/tags/linux/</guid>
       <description></description>
@@ -81,16 +63,25 @@
     <item>
       <title>mac</title>
       <link>https://tarakparab.netlify.app/tags/mac/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://tarakparab.netlify.app/tags/mac/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>open source</title>
+      <link>https://tarakparab.netlify.app/tags/open-source/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://tarakparab.netlify.app/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>windows</title>
       <link>https://tarakparab.netlify.app/tags/windows/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://tarakparab.netlify.app/tags/windows/</guid>
       <description></description>
