@@ -87,5 +87,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>poem</title>
+      <link>https://tarakparab.netlify.app/tags/poem/</link>
+      <pubDate>Thu, 01 Nov 2012 09:20:20 +0530</pubDate>
+      
+      <guid>https://tarakparab.netlify.app/tags/poem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>song</title>
+      <link>https://tarakparab.netlify.app/tags/song/</link>
+      <pubDate>Thu, 01 Nov 2012 09:20:20 +0530</pubDate>
+      
+      <guid>https://tarakparab.netlify.app/tags/song/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
