@@ -2,34 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tarakparab.netlify.app/posts/creative/poem/</loc>
+    <lastmod>2023-05-28T09:20:20+05:30</lastmod>
+  </url><url>
+    <loc>https://tarakparab.netlify.app/posts/creative/</loc>
+    <lastmod>2023-05-28T09:20:20+05:30</lastmod>
+  </url><url>
+    <loc>https://tarakparab.netlify.app/tags/poem/</loc>
+    <lastmod>2023-05-28T09:20:20+05:30</lastmod>
+  </url><url>
+    <loc>https://tarakparab.netlify.app/posts/</loc>
+    <lastmod>2023-05-28T09:20:20+05:30</lastmod>
+  </url><url>
+    <loc>https://tarakparab.netlify.app/tags/song/</loc>
+    <lastmod>2023-05-28T09:20:20+05:30</lastmod>
+  </url><url>
+    <loc>https://tarakparab.netlify.app/tags/</loc>
+    <lastmod>2023-05-28T09:20:20+05:30</lastmod>
+  </url><url>
+    <loc>https://tarakparab.netlify.app/</loc>
+    <lastmod>2023-05-28T09:20:20+05:30</lastmod>
+  </url><url>
     <loc>https://tarakparab.netlify.app/tags/android/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tarakparab.netlify.app/tags/app/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tarakparab.netlify.app/posts/footing_designer/</loc>
+    <loc>https://tarakparab.netlify.app/posts/engineering/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tarakparab.netlify.app/posts/</loc>
+    <loc>https://tarakparab.netlify.app/posts/engineering/footing_designer/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tarakparab.netlify.app/posts/footing_designer/privacy-policy/</loc>
+    <loc>https://tarakparab.netlify.app/posts/engineering/footing_designer/privacy-policy/</loc>
     <lastmod>2023-02-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tarakparab.netlify.app/tags/</loc>
-    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tarakparab.netlify.app/</loc>
-    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tarakparab.netlify.app/posts/articles/</loc>
-    <lastmod>2022-10-24T17:07:28+05:30</lastmod>
   </url><url>
     <loc>https://tarakparab.netlify.app/tags/autocad/</loc>
     <lastmod>2022-10-24T17:07:28+05:30</lastmod>
   </url><url>
-    <loc>https://tarakparab.netlify.app/posts/articles/autocad/</loc>
+    <loc>https://tarakparab.netlify.app/posts/engineering/autocad/</loc>
     <lastmod>2022-10-24T17:07:28+05:30</lastmod>
   </url><url>
     <loc>https://tarakparab.netlify.app/tags/cad/</loc>
@@ -71,21 +83,10 @@
     <loc>https://tarakparab.netlify.app/tags/windows/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://tarakparab.netlify.app/posts/content/</loc>
-    <lastmod>2012-11-01T09:20:20+05:30</lastmod>
-  </url><url>
-    <loc>https://tarakparab.netlify.app/posts/content/song/</loc>
-    <lastmod>2012-11-01T09:20:20+05:30</lastmod>
-  </url><url>
-    <loc>https://tarakparab.netlify.app/tags/poem/</loc>
-    <lastmod>2012-11-01T09:20:20+05:30</lastmod>
-  </url><url>
-    <loc>https://tarakparab.netlify.app/tags/song/</loc>
+    <loc>https://tarakparab.netlify.app/posts/creative/song/</loc>
     <lastmod>2012-11-01T09:20:20+05:30</lastmod>
   </url><url>
     <loc>https://tarakparab.netlify.app/categories/</loc>
-  </url><url>
-    <loc>https://tarakparab.netlify.app/posts/engineering/</loc>
   </url><url>
     <loc>https://tarakparab.netlify.app/search/</loc>
   </url><url>

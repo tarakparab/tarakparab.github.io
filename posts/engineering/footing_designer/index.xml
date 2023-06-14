@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>app on TARAK PARAB</title>
-    <link>https://tarakparab.netlify.app/tags/app/</link>
-    <description>Recent content in app on TARAK PARAB</description>
+    <title>Footing Designer on TARAK PARAB</title>
+    <link>https://tarakparab.netlify.app/posts/engineering/footing_designer/</link>
+    <description>Recent content in Footing Designer on TARAK PARAB</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tarakparab.netlify.app/tags/app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tarakparab.netlify.app/posts/engineering/footing_designer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy Policy</title>
       <link>https://tarakparab.netlify.app/posts/engineering/footing_designer/privacy-policy/</link>
