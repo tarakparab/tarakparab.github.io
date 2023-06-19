@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>music on TARAK PARAB</title>
+    <link>https://tarakparab.netlify.app/tags/music/</link>
+    <description>Recent content in music on TARAK PARAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 12 Jun 2023 11:30:03 +0000</lastBuildDate><atom:link href="https://tarakparab.netlify.app/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My music</title>
+      <link>https://tarakparab.netlify.app/posts/creative/music/</link>
+      <pubDate>Mon, 12 Jun 2023 11:30:03 +0000</pubDate>
+      
+      <guid>https://tarakparab.netlify.app/posts/creative/music/</guid>
+      <description>LMMS projects</description>
+    </item>
+    
+  </channel>
+</rss>
