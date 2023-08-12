@@ -2,28 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tarakparab.netlify.app/posts/creative/</loc>
-    <lastmod>2023-06-12T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://tarakparab.netlify.app/tags/music/</loc>
-    <lastmod>2023-06-12T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://tarakparab.netlify.app/posts/creative/music/</loc>
-    <lastmod>2023-06-12T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://tarakparab.netlify.app/posts/</loc>
-    <lastmod>2023-06-12T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://tarakparab.netlify.app/tags/</loc>
-    <lastmod>2023-06-12T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://tarakparab.netlify.app/</loc>
-    <lastmod>2023-06-12T11:30:03+00:00</lastmod>
-  </url><url>
     <loc>https://tarakparab.netlify.app/posts/creative/poem/</loc>
     <lastmod>2023-05-28T09:20:20+05:30</lastmod>
   </url><url>
+    <loc>https://tarakparab.netlify.app/posts/creative/</loc>
+    <lastmod>2023-05-28T09:20:20+05:30</lastmod>
+  </url><url>
     <loc>https://tarakparab.netlify.app/tags/poem/</loc>
+    <lastmod>2023-05-28T09:20:20+05:30</lastmod>
+  </url><url>
+    <loc>https://tarakparab.netlify.app/posts/</loc>
+    <lastmod>2023-05-28T09:20:20+05:30</lastmod>
+  </url><url>
+    <loc>https://tarakparab.netlify.app/tags/</loc>
+    <lastmod>2023-05-28T09:20:20+05:30</lastmod>
+  </url><url>
+    <loc>https://tarakparab.netlify.app/</loc>
     <lastmod>2023-05-28T09:20:20+05:30</lastmod>
   </url><url>
     <loc>https://tarakparab.netlify.app/tags/android/</loc>
@@ -57,9 +51,6 @@
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://tarakparab.netlify.app/tags/apps/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://tarakparab.netlify.app/posts/favourites/fav_podcasts/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://tarakparab.netlify.app/posts/favourites/</loc>

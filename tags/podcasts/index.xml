@@ -15,14 +15,5 @@
       <description>Open source podcast client for Android</description>
     </item>
     
-    <item>
-      <title>Favourite podcasts</title>
-      <link>https://tarakparab.netlify.app/posts/favourites/fav_podcasts/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://tarakparab.netlify.app/posts/favourites/fav_podcasts/</guid>
-      <description>Playing in the background mostly</description>
-    </item>
-    
   </channel>
 </rss>
